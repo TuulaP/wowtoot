@@ -1,0 +1,15 @@
+## Interface: 100200
+## Title: MastodonToot
+## Notes: Howmany times a character has entered a zone 0.0.1
+## Author: ...
+## Version: 0.0.1
+## Created: 11/11/2023
+## Dependencies:
+## SavedVariablesPerCharacter: MastodonTootData
+## License: MIT
+
+Libs/LibStub/LibStub.lua
+Libs/LibRealmInfo/LibRealmInfo.lua
+tablesave.lua
+
+MastodonToot.lua
